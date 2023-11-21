@@ -1,0 +1,46 @@
+/* Write your code here */
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 200px;
+  margin-left: 400px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  margin-left: 330px;
+}
+.rowingButton {
+  display: flex;
+  flex-direction: row;
+  margin-left: 140px;
+}
+.left {
+  margin-right: 190px;
+}
+.right {
+  margin-left: 150px;
+}
+.whiteText {
+  margin-left: 290px;
+  padding: 60px;
+  color: white;
+}
+
+.para {
+  margin-right: 70px;
+  color: white;
+}
+.erase {
+  border: 0px;
+  background-color: transparent;
+}
+.longText {
+  text-align: center;
+}
+.smallLeft {
+  margin-right: 80px;
+}
